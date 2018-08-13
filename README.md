@@ -1,3 +1,7 @@
+## Overview
+
+This is the code for [this](https://youtu.be/DzzFSyzv1p0) video on Youtube by Siraj Raval on OpenAI Five vs DOTA 2. The author of this code is [alexis-jacq](https://github.com/alexis-jacq/Pytorch-DPPO). The real code is not yet publically available, but this is a basic version of the algorithm. 
+
 # Pytorch-DPPO
 Pytorch implementation of Distributed Proximal Policy Optimization: https://arxiv.org/abs/1707.02286
 Using PPO with clip loss (from https://arxiv.org/pdf/1707.06347.pdf).
